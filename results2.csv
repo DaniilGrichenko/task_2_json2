@@ -1,0 +1,8 @@
+IPv4 Addresses,IPv6 Addresses,Domains,ISBindingImageDescriptor
+10.105.160.95,FE80:0000:0000:0000:D8A5:90FF:FEF5:7FFF,com.apple.CDScheduler,ISBindingImageDescriptor:
+125.39.133.143,FE80:0000:0000:0000:D8A5:90FF:FEF5:7FFF,authorMacBook-Pro.local,ISBindingImageDescriptor:
+183.57.48.75,2607:F140:6000:0008:C6B3:01FF:FECD:467F,com.apple.cts,ISBindingImageDescriptor:
+10.105.163.202,FE80:0000:0000:0000:C6B3:01FF:FECD:467F,com.apple.icloud.fmfd.heartbeat,ISBindingImageDescriptor:
+10.105.163.202,FE80:0000:0000:0000:D8A5:90FF:FEF5:7FFF,com.apple.WebKit.WebContent,ISBindingImageDescriptor:
+10.105.163.202,FE80:0000:0000:0000:C6B3:01FF:FECD:467F,com.apple.cts,ISBindingImageDescriptor:
+10.105.163.202,FE80:0000:0000:0000:C6B3:01FF:FECD:467F,com.apple.Safari.SafeBrowsing.Update,ISBindingImageDescriptor:
